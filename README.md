@@ -2,23 +2,19 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a rendition of a website with my own custom CSS! I got a little carried away and I think it looks decent. It was really fun to do all sorts of techniques in CSS and make the website have structure and pop.
+
+To run this website, first clone this repository onto your machine and then navigate to where it exists in Git Bash. 
+Then, to enter VSCode, run the following command:
+`code .`
+
+This will take you to the IDE which you can then open a terminal and download any packages/dependencies that the website requires.
+This command is:
+`npm install`
+
+After installing all the dependencies, it is now time to run the website! With the provided "Live Preview" VSCode extension. You
+can open the VSCode command terminal using the keysequence **Ctrl+Shift+P** and use the *Live Preview: Start Server* command. It is now running!
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- MDM Webdocs https://developer.mozilla.org/en-US/
